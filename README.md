@@ -1,5 +1,5 @@
 # Hacktoberfest 2018 Code Challenges
-
+<img src="https://www.vengaglobal.com/wp-content/uploads/2018/01/Code-Camp-Challenges-of-Translating-Developer-Content_Medium.jpeg">
 The point of this repository is to allow anyone to start contributing on a
 public repository.
 
